@@ -1,1 +1,2 @@
-# my.properties
+my.property= new property
+you.property=old property
